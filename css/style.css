@@ -1,0 +1,8 @@
+td{
+    padding: 10px 20px;
+    font-size: 15px;
+    text-align: center;
+}
+td:hover{
+    background-color: greenyellow;
+    transition: 2s}
